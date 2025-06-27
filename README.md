@@ -1,8 +1,12 @@
-<div> 
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hi)
+<div>
+  
+  <!--Header-->
+  ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+  
 </div>
 
 <div>
+  <!--Body-->
   ## About Me 
   #### :mortar_board: Computer Science student at the University of Georgia   
   #### :star2: Java, C#, JavaScript, Kotlin
