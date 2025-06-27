@@ -1,6 +1,7 @@
 <div> 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,I'm Songmin)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,I'm Songmin!)
 </div>
+
 <div>
   ## About Me 
   #### :mortar_board: Computer Science student at the University of Georgia   
