@@ -16,13 +16,13 @@
 
 
   ## Github Stats 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mInsOng9)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mInsOng9)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
-
+<!-- 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mInsOng9)](https://github.com/anuraghazra/github-readme-stats)
+  --> 
 <!--
 **mInsOng9/mInsOng9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
