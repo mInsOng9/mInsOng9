@@ -15,10 +15,11 @@
   <br/>
   
   ## 🔥Recent Work
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mInsOng9)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mInsOng9&theme=default)](https://git.io/streak-stats)
 
   ## Github Stats 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mInsOng9)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mInsOng9&show_icons=true&theme=radical&count_private=true)
+
   
 </div>
 
