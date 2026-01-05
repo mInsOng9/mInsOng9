@@ -13,14 +13,22 @@
   #### :star2: Java, C#, JavaScript, Kotlin
   #### :blush: Always learning and building useful tools  
   <br/>
+
+  ## Experience 
+  ### Android App Developer
+  - Role: Frontend
+  - Period: Jan 2023 - June 2026
+  - Developed and maintained Android app features using Kotlin/Java
+  - Fixed bugs and improved app stability
+  - Collaborated with designers to refine app funcionality 
   <!--
   ## 🔥Recent Work
-   [![GitHub Streak](https://streak-stats.demolab.com?user=mInsOng9&theme=default)](https://git.io/streak-stats)-->
+   [![GitHub Streak](https://streak-stats.demolab.com?user=mInsOng9&theme=default)](https://git.io/streak-stats)
 
   ## Github Stats 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mInsOng9&show_icons=true&theme=radical&count_private=true)
 
-  
+  -->
 </div>
 
 <!-- 
