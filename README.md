@@ -10,7 +10,7 @@
   
   ##  About Me 
   #### :mortar_board: Computer Science student at the University of Georgia   
-  #### :star2: Java, C#, JavaScript, Kotlin
+  #### :star2: Java, Python, JavaScript, Kotlin
   #### :blush: Always learning and building useful tools  
   <br/>
 
